@@ -1,0 +1,16 @@
+p.intro {
+  font-style: italic;
+  color: green;
+  width: 75%;
+}
+
+img {
+  width: 25%;
+  height: auto;
+  float: left;
+  margin-right: 25px;
+}
+
+.intro-container {
+  overflow: auto;
+}
