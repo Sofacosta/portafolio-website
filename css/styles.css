@@ -28,12 +28,23 @@ img {
 }
 
 h1 {
+  font-size: 55px;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center
+  
+}
+
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.background h2 {
+  font-family: "Times New Roman", Garamond, serif;
 }
 
 .personal p {
-  background: rgb(238,174,202);
-  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  background: rgb(224,174,238);
+  background: radial-gradient(circle, rgba(224,174,238,1) 0%, rgba(233,173,148,1) 100%);
 }
 
 .quote p {
