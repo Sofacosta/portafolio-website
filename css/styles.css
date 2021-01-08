@@ -7,6 +7,8 @@ p.intro {
 img {
   width: 25%;
   height: auto;
+  border: 2px solid red;
+  border-radius: 15px;
   float: left;
   margin-right: 25px;
 }
@@ -14,3 +16,18 @@ img {
 .intro-container {
   overflow: auto;
 }
+
+.box-interest{
+  width: 50%;
+  padding: 20px;
+  border: solid black;
+  border-width: 20px;
+  background-color: yellow;
+  margin-bottom: 10px
+}
+
+<style>
+h1 {
+  text-align: center
+}
+</style>
