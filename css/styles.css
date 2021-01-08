@@ -17,25 +17,26 @@ img {
   overflow: auto;
 }
 
-.box-interest{
+.box-interest {
   width: 50%;
   padding: 20px;
   border: solid black;
   border-width: 20px;
-  background-color: yellow;
-  margin-bottom: 10px
+  background: rgb(238,231,174);
+  background: radial-gradient(circle, rgba(238,231,174,1) 0%, rgba(148,233,208,1) 100%);
+  margin: 0 auto 10px;
 }
 
-<style>
 h1 {
   text-align: center
 }
-</style>
 
-.personal p{
-  background-color: violet;
+.personal p {
+  background: rgb(238,174,202);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
 
-.quote p{
-  background-color: salmon;
+.quote p {
+  background: rgb(174,179,238);
+  background: radial-gradient(circle, rgba(174,179,238,1) 0%, rgba(233,148,232,1) 100%);
 }
