@@ -31,3 +31,11 @@ h1 {
   text-align: center
 }
 </style>
+
+.personal p{
+  background-color: violet;
+}
+
+.quote p{
+  background-color: salmon;
+}
